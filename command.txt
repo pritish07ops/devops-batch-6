@@ -6,3 +6,5 @@ git commit
 git restore
 git status
 git log
+git config --global user.email "<your email>"
+git config --global user.email user.name "<username>"
